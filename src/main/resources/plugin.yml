@@ -1,0 +1,8 @@
+name: HeadManager
+main: com.inkzzz.headmanager.HeadManagerPlugin
+author: [Inkzzz]
+depend: [Vault]
+version: 1.0
+commands:
+  sellhead:
+    description: Sell the head that is in your hand!
